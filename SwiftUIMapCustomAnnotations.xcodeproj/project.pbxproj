@@ -7,6 +7,43 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5BD0CBA62A80592D00E1299A /* 2430 J.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CB9A2A80591B00E1299A /* 2430 J.pdf */; };
+		5BD0CBA92A80592D00E1299A /* 2430 L.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CB9D2A80592300E1299A /* 2430 L.pdf */; };
+		5BD0CBAA2A80592D00E1299A /* 2330 E.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CB9E2A80592300E1299A /* 2330 E.pdf */; };
+		5BD0CBAB2A80592D00E1299A /* 2430 A.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CB9F2A80592400E1299A /* 2430 A.pdf */; };
+		5BD0CBAE2A80592D00E1299A /* 2430 G.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBA22A80592C00E1299A /* 2430 G.pdf */; };
+		5BD0CBAF2A80592D00E1299A /* 2430 F.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBA32A80592C00E1299A /* 2430 F.pdf */; };
+		5BD0CBB02A80592D00E1299A /* 2330 C.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBA42A80592C00E1299A /* 2330 C.pdf */; };
+		5BD0CBB12A80592D00E1299A /* 2430 H.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBA52A80592D00E1299A /* 2430 H.pdf */; };
+		5BD0CBB32A8060C600E1299A /* 2431 A.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBB22A8060C600E1299A /* 2431 A.pdf */; };
+		5BD0CBBA2A8069CB00E1299A /* 2128 5.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBB42A8069CA00E1299A /* 2128 5.pdf */; };
+		5BD0CBBD2A8069CB00E1299A /* 2128 3.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBB72A8069CA00E1299A /* 2128 3.pdf */; };
+		5BD0CBBE2A8069CB00E1299A /* 2128 4.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBB82A8069CB00E1299A /* 2128 4.pdf */; };
+		5BD0CBBF2A8069CB00E1299A /* 2128 2.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD0CBB92A8069CB00E1299A /* 2128 2.pdf */; };
+		5BD3A2692A8B0A0800AB82DA /* AssociatedFilesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BD3A2682A8B0A0800AB82DA /* AssociatedFilesListView.swift */; };
+		5BD3A2752A8B0DFA00AB82DA /* 1831 B.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A26A2A8B0DEE00AB82DA /* 1831 B.pdf */; };
+		5BD3A2762A8B0DFA00AB82DA /* 1832 B.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A26B2A8B0DEF00AB82DA /* 1832 B.pdf */; };
+		5BD3A2772A8B0DFA00AB82DA /* 1833 A.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A26C2A8B0DF000AB82DA /* 1833 A.pdf */; };
+		5BD3A2782A8B0DFA00AB82DA /* 1833 B.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A26D2A8B0DF100AB82DA /* 1833 B.pdf */; };
+		5BD3A2792A8B0DFA00AB82DA /* 1831 A.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A26E2A8B0DF200AB82DA /* 1831 A.pdf */; };
+		5BD3A27A2A8B0DFA00AB82DA /* 1833 C.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A26F2A8B0DF300AB82DA /* 1833 C.pdf */; };
+		5BD3A27B2A8B0DFA00AB82DA /* 1830 A.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2702A8B0DF500AB82DA /* 1830 A.pdf */; };
+		5BD3A27C2A8B0DFA00AB82DA /* 1832 A.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2712A8B0DF600AB82DA /* 1832 A.pdf */; };
+		5BD3A27D2A8B0DFA00AB82DA /* 1831 C.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2722A8B0DF700AB82DA /* 1831 C.pdf */; };
+		5BD3A27E2A8B0DFA00AB82DA /* 1830 B.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2732A8B0DF900AB82DA /* 1830 B.pdf */; };
+		5BD3A27F2A8B0DFA00AB82DA /* 1831 D.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2742A8B0DFA00AB82DA /* 1831 D.pdf */; };
+		5BD3A2882A8B0ED200AB82DA /* 1836.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2802A8B0ECC00AB82DA /* 1836.pdf */; };
+		5BD3A2892A8B0ED200AB82DA /* 1832.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2812A8B0ECD00AB82DA /* 1832.pdf */; };
+		5BD3A28A2A8B0ED200AB82DA /* 1834.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2822A8B0ECD00AB82DA /* 1834.pdf */; };
+		5BD3A28B2A8B0ED200AB82DA /* 1830.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2832A8B0ECE00AB82DA /* 1830.pdf */; };
+		5BD3A28C2A8B0ED200AB82DA /* 1837.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2842A8B0ECF00AB82DA /* 1837.pdf */; };
+		5BD3A28D2A8B0ED200AB82DA /* 1838.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2852A8B0ECF00AB82DA /* 1838.pdf */; };
+		5BD3A28E2A8B0ED200AB82DA /* 1831.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2862A8B0ED100AB82DA /* 1831.pdf */; };
+		5BD3A28F2A8B0ED200AB82DA /* 1833.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2872A8B0ED200AB82DA /* 1833.pdf */; };
+		5BD3A2952A8BF82C00AB82DA /* 2330 B.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2922A8BF82800AB82DA /* 2330 B.pdf */; };
+		5BD3A2962A8BF82C00AB82DA /* 2330 A.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2932A8BF82A00AB82DA /* 2330 A.pdf */; };
+		5BD3A2972A8BF82C00AB82DA /* 2330 D.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A2942A8BF82C00AB82DA /* 2330 D.pdf */; };
+		5BD3A29B2A8BF8F900AB82DA /* 2430 K.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 5BD3A29A2A8BF8F900AB82DA /* 2430 K.pdf */; };
 		6344107826D6DC7400D3C6BB /* SwiftUIMapCustomAnnotationsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6344107726D6DC7400D3C6BB /* SwiftUIMapCustomAnnotationsApp.swift */; };
 		6344107A26D6DC7400D3C6BB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6344107926D6DC7400D3C6BB /* ContentView.swift */; };
 		6344107C26D6DC7500D3C6BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6344107B26D6DC7500D3C6BB /* Assets.xcassets */; };
@@ -17,6 +54,44 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5BD0CB9A2A80591B00E1299A /* 2430 J.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2430 J.pdf"; sourceTree = "<group>"; };
+		5BD0CB9D2A80592300E1299A /* 2430 L.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2430 L.pdf"; sourceTree = "<group>"; };
+		5BD0CB9E2A80592300E1299A /* 2330 E.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2330 E.pdf"; sourceTree = "<group>"; };
+		5BD0CB9F2A80592400E1299A /* 2430 A.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2430 A.pdf"; sourceTree = "<group>"; };
+		5BD0CBA22A80592C00E1299A /* 2430 G.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2430 G.pdf"; sourceTree = "<group>"; };
+		5BD0CBA32A80592C00E1299A /* 2430 F.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2430 F.pdf"; sourceTree = "<group>"; };
+		5BD0CBA42A80592C00E1299A /* 2330 C.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2330 C.pdf"; sourceTree = "<group>"; };
+		5BD0CBA52A80592D00E1299A /* 2430 H.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2430 H.pdf"; sourceTree = "<group>"; };
+		5BD0CBB22A8060C600E1299A /* 2431 A.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2431 A.pdf"; sourceTree = "<group>"; };
+		5BD0CBB42A8069CA00E1299A /* 2128 5.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2128 5.pdf"; sourceTree = "<group>"; };
+		5BD0CBB72A8069CA00E1299A /* 2128 3.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2128 3.pdf"; sourceTree = "<group>"; };
+		5BD0CBB82A8069CB00E1299A /* 2128 4.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2128 4.pdf"; sourceTree = "<group>"; };
+		5BD0CBB92A8069CB00E1299A /* 2128 2.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2128 2.pdf"; sourceTree = "<group>"; };
+		5BD0CBC42A80981B00E1299A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		5BD3A2682A8B0A0800AB82DA /* AssociatedFilesListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssociatedFilesListView.swift; sourceTree = "<group>"; };
+		5BD3A26A2A8B0DEE00AB82DA /* 1831 B.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1831 B.pdf"; sourceTree = "<group>"; };
+		5BD3A26B2A8B0DEF00AB82DA /* 1832 B.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1832 B.pdf"; sourceTree = "<group>"; };
+		5BD3A26C2A8B0DF000AB82DA /* 1833 A.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1833 A.pdf"; sourceTree = "<group>"; };
+		5BD3A26D2A8B0DF100AB82DA /* 1833 B.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1833 B.pdf"; sourceTree = "<group>"; };
+		5BD3A26E2A8B0DF200AB82DA /* 1831 A.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1831 A.pdf"; sourceTree = "<group>"; };
+		5BD3A26F2A8B0DF300AB82DA /* 1833 C.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1833 C.pdf"; sourceTree = "<group>"; };
+		5BD3A2702A8B0DF500AB82DA /* 1830 A.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1830 A.pdf"; sourceTree = "<group>"; };
+		5BD3A2712A8B0DF600AB82DA /* 1832 A.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1832 A.pdf"; sourceTree = "<group>"; };
+		5BD3A2722A8B0DF700AB82DA /* 1831 C.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1831 C.pdf"; sourceTree = "<group>"; };
+		5BD3A2732A8B0DF900AB82DA /* 1830 B.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1830 B.pdf"; sourceTree = "<group>"; };
+		5BD3A2742A8B0DFA00AB82DA /* 1831 D.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "1831 D.pdf"; sourceTree = "<group>"; };
+		5BD3A2802A8B0ECC00AB82DA /* 1836.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1836.pdf; sourceTree = "<group>"; };
+		5BD3A2812A8B0ECD00AB82DA /* 1832.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1832.pdf; sourceTree = "<group>"; };
+		5BD3A2822A8B0ECD00AB82DA /* 1834.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1834.pdf; sourceTree = "<group>"; };
+		5BD3A2832A8B0ECE00AB82DA /* 1830.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1830.pdf; sourceTree = "<group>"; };
+		5BD3A2842A8B0ECF00AB82DA /* 1837.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1837.pdf; sourceTree = "<group>"; };
+		5BD3A2852A8B0ECF00AB82DA /* 1838.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1838.pdf; sourceTree = "<group>"; };
+		5BD3A2862A8B0ED100AB82DA /* 1831.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1831.pdf; sourceTree = "<group>"; };
+		5BD3A2872A8B0ED200AB82DA /* 1833.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = 1833.pdf; sourceTree = "<group>"; };
+		5BD3A2922A8BF82800AB82DA /* 2330 B.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2330 B.pdf"; sourceTree = "<group>"; };
+		5BD3A2932A8BF82A00AB82DA /* 2330 A.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2330 A.pdf"; sourceTree = "<group>"; };
+		5BD3A2942A8BF82C00AB82DA /* 2330 D.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2330 D.pdf"; sourceTree = "<group>"; };
+		5BD3A29A2A8BF8F900AB82DA /* 2430 K.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "2430 K.pdf"; sourceTree = "<group>"; };
 		6344107426D6DC7400D3C6BB /* SwiftUIMapCustomAnnotations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIMapCustomAnnotations.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6344107726D6DC7400D3C6BB /* SwiftUIMapCustomAnnotationsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIMapCustomAnnotationsApp.swift; sourceTree = "<group>"; };
 		6344107926D6DC7400D3C6BB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,12 +132,50 @@
 		6344107626D6DC7400D3C6BB /* SwiftUIMapCustomAnnotations */ = {
 			isa = PBXGroup;
 			children = (
+				5BD0CBC42A80981B00E1299A /* Info.plist */,
 				6344107726D6DC7400D3C6BB /* SwiftUIMapCustomAnnotationsApp.swift */,
 				6344107926D6DC7400D3C6BB /* ContentView.swift */,
 				63DAD07B26D9038000C60554 /* LocationDetailsView.swift */,
+				5BD3A2682A8B0A0800AB82DA /* AssociatedFilesListView.swift */,
 				6344108526D6DF0200D3C6BB /* PlaceAnnotationView.swift */,
 				63DAD07926D901B100C60554 /* PlaceAnnotationShowHideView.swift */,
 				6344107B26D6DC7500D3C6BB /* Assets.xcassets */,
+				5BD3A2832A8B0ECE00AB82DA /* 1830.pdf */,
+				5BD3A2702A8B0DF500AB82DA /* 1830 A.pdf */,
+				5BD3A2732A8B0DF900AB82DA /* 1830 B.pdf */,
+				5BD3A2862A8B0ED100AB82DA /* 1831.pdf */,
+				5BD3A26E2A8B0DF200AB82DA /* 1831 A.pdf */,
+				5BD3A26A2A8B0DEE00AB82DA /* 1831 B.pdf */,
+				5BD3A2722A8B0DF700AB82DA /* 1831 C.pdf */,
+				5BD3A2742A8B0DFA00AB82DA /* 1831 D.pdf */,
+				5BD3A2812A8B0ECD00AB82DA /* 1832.pdf */,
+				5BD3A2712A8B0DF600AB82DA /* 1832 A.pdf */,
+				5BD3A26B2A8B0DEF00AB82DA /* 1832 B.pdf */,
+				5BD3A2872A8B0ED200AB82DA /* 1833.pdf */,
+				5BD3A26C2A8B0DF000AB82DA /* 1833 A.pdf */,
+				5BD3A26D2A8B0DF100AB82DA /* 1833 B.pdf */,
+				5BD3A26F2A8B0DF300AB82DA /* 1833 C.pdf */,
+				5BD3A2822A8B0ECD00AB82DA /* 1834.pdf */,
+				5BD3A2802A8B0ECC00AB82DA /* 1836.pdf */,
+				5BD3A2842A8B0ECF00AB82DA /* 1837.pdf */,
+				5BD3A2852A8B0ECF00AB82DA /* 1838.pdf */,
+				5BD0CBB92A8069CB00E1299A /* 2128 2.pdf */,
+				5BD0CBB72A8069CA00E1299A /* 2128 3.pdf */,
+				5BD0CBB82A8069CB00E1299A /* 2128 4.pdf */,
+				5BD0CBB42A8069CA00E1299A /* 2128 5.pdf */,
+				5BD3A2932A8BF82A00AB82DA /* 2330 A.pdf */,
+				5BD3A2922A8BF82800AB82DA /* 2330 B.pdf */,
+				5BD3A2942A8BF82C00AB82DA /* 2330 D.pdf */,
+				5BD0CBA42A80592C00E1299A /* 2330 C.pdf */,
+				5BD0CB9E2A80592300E1299A /* 2330 E.pdf */,
+				5BD0CB9F2A80592400E1299A /* 2430 A.pdf */,
+				5BD0CBA32A80592C00E1299A /* 2430 F.pdf */,
+				5BD0CBA22A80592C00E1299A /* 2430 G.pdf */,
+				5BD0CBA52A80592D00E1299A /* 2430 H.pdf */,
+				5BD0CB9A2A80591B00E1299A /* 2430 J.pdf */,
+				5BD3A29A2A8BF8F900AB82DA /* 2430 K.pdf */,
+				5BD0CB9D2A80592300E1299A /* 2430 L.pdf */,
+				5BD0CBB22A8060C600E1299A /* 2431 A.pdf */,
 				6344107D26D6DC7500D3C6BB /* Preview Content */,
 			);
 			path = SwiftUIMapCustomAnnotations;
@@ -134,8 +247,44 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BD3A28E2A8B0ED200AB82DA /* 1831.pdf in Resources */,
 				6344107F26D6DC7500D3C6BB /* Preview Assets.xcassets in Resources */,
+				5BD0CBAE2A80592D00E1299A /* 2430 G.pdf in Resources */,
+				5BD0CBA62A80592D00E1299A /* 2430 J.pdf in Resources */,
+				5BD3A2952A8BF82C00AB82DA /* 2330 B.pdf in Resources */,
+				5BD3A27F2A8B0DFA00AB82DA /* 1831 D.pdf in Resources */,
+				5BD0CBBA2A8069CB00E1299A /* 2128 5.pdf in Resources */,
+				5BD0CBBF2A8069CB00E1299A /* 2128 2.pdf in Resources */,
+				5BD3A2782A8B0DFA00AB82DA /* 1833 B.pdf in Resources */,
+				5BD3A28C2A8B0ED200AB82DA /* 1837.pdf in Resources */,
+				5BD3A27C2A8B0DFA00AB82DA /* 1832 A.pdf in Resources */,
+				5BD3A27B2A8B0DFA00AB82DA /* 1830 A.pdf in Resources */,
+				5BD0CBBD2A8069CB00E1299A /* 2128 3.pdf in Resources */,
+				5BD3A28F2A8B0ED200AB82DA /* 1833.pdf in Resources */,
+				5BD3A2752A8B0DFA00AB82DA /* 1831 B.pdf in Resources */,
+				5BD0CBB12A80592D00E1299A /* 2430 H.pdf in Resources */,
+				5BD3A29B2A8BF8F900AB82DA /* 2430 K.pdf in Resources */,
+				5BD3A28A2A8B0ED200AB82DA /* 1834.pdf in Resources */,
+				5BD0CBAF2A80592D00E1299A /* 2430 F.pdf in Resources */,
+				5BD0CBB32A8060C600E1299A /* 2431 A.pdf in Resources */,
+				5BD3A27E2A8B0DFA00AB82DA /* 1830 B.pdf in Resources */,
+				5BD3A27D2A8B0DFA00AB82DA /* 1831 C.pdf in Resources */,
+				5BD0CBBE2A8069CB00E1299A /* 2128 4.pdf in Resources */,
+				5BD0CBAA2A80592D00E1299A /* 2330 E.pdf in Resources */,
+				5BD0CBB02A80592D00E1299A /* 2330 C.pdf in Resources */,
+				5BD0CBAB2A80592D00E1299A /* 2430 A.pdf in Resources */,
+				5BD3A2972A8BF82C00AB82DA /* 2330 D.pdf in Resources */,
+				5BD3A28B2A8B0ED200AB82DA /* 1830.pdf in Resources */,
+				5BD3A28D2A8B0ED200AB82DA /* 1838.pdf in Resources */,
+				5BD3A2962A8BF82C00AB82DA /* 2330 A.pdf in Resources */,
+				5BD3A2792A8B0DFA00AB82DA /* 1831 A.pdf in Resources */,
+				5BD3A2882A8B0ED200AB82DA /* 1836.pdf in Resources */,
+				5BD3A2892A8B0ED200AB82DA /* 1832.pdf in Resources */,
+				5BD3A2772A8B0DFA00AB82DA /* 1833 A.pdf in Resources */,
 				6344107C26D6DC7500D3C6BB /* Assets.xcassets in Resources */,
+				5BD3A2762A8B0DFA00AB82DA /* 1832 B.pdf in Resources */,
+				5BD3A27A2A8B0DFA00AB82DA /* 1833 C.pdf in Resources */,
+				5BD0CBA92A80592D00E1299A /* 2430 L.pdf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,6 +295,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5BD3A2692A8B0A0800AB82DA /* AssociatedFilesListView.swift in Sources */,
 				63DAD07C26D9038000C60554 /* LocationDetailsView.swift in Sources */,
 				6344107A26D6DC7400D3C6BB /* ContentView.swift in Sources */,
 				6344107826D6DC7400D3C6BB /* SwiftUIMapCustomAnnotationsApp.swift in Sources */,
@@ -278,15 +428,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIMapCustomAnnotations/Preview Content\"";
-				DEVELOPMENT_TEAM = 4CSN8N4Q3J;
+				DEVELOPMENT_TEAM = 8876X6G75F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUIMapCustomAnnotations/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "MICS 2023 V3";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We use your location to show you nearby places";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use your location to show you nearby places";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -295,7 +451,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.fassko.SwiftUIMapCustomAnnotations;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mai.SwiftUIMapCustomAnnotations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -308,15 +464,21 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIMapCustomAnnotations/Preview Content\"";
-				DEVELOPMENT_TEAM = 4CSN8N4Q3J;
+				DEVELOPMENT_TEAM = 8876X6G75F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = SwiftUIMapCustomAnnotations/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "MICS 2023 V3";
+				INFOPLIST_KEY_NSLocationAlwaysAndWhenInUseUsageDescription = "We use your location to show you nearby places";
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "We use your location to show you nearby places";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UIRequiresFullScreen = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
@@ -325,7 +487,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.fassko.SwiftUIMapCustomAnnotations;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mai.SwiftUIMapCustomAnnotations;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;

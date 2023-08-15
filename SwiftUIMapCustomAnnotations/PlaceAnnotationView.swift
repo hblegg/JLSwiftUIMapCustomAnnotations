@@ -6,27 +6,25 @@ struct PlaceAnnotationView: View {
   var body: some View {
     VStack(spacing: 0) {
       Text(title)
-        .font(.callout)
+//        .font(.callout)
+//        .padding(5)
+//        .background(Color(uiColor: .white))
+//        .cornerRadius(10)
+//        .foregroundColor(Color(uiColor: .black))
+      
+            .font(.caption)
+        //.font(.system(size: 10))
         .padding(5)
-        .background(Color(uiColor: .white))
+        .background(Color(uiColor: .white).opacity(0.7))
         .cornerRadius(10)
         .foregroundColor(Color(uiColor: .black))
-      
-      Image(systemName: "mappin.circle.fill")
-        .font(.title)
-        .foregroundColor(.red)
-      
-      Image(systemName: "arrowtriangle.down.fill")
-        .font(.caption)
-        .foregroundColor(.red)
-        .offset(x: 0, y: -5)
     }
   }
 }
 
 struct PlaceAnnotationView_Previews: PreviewProvider {
   static var previews: some View {
-    PlaceAnnotationView(title: "Empire State Building")
+    PlaceAnnotationView(title: "Preplan")
       .background(Color.gray)
   }
 }
